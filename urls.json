@@ -3,7 +3,8 @@
         "accounts.google.com/v3/signin/",
         "accounts.google.com/signin/",
         "accounts.youtube.com/accounts/",
-		"codeberg"
+		"codeberg",
+	    "yeshiva",
         "accounts.google.com/CheckCookie"
     ]
 }
