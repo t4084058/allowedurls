@@ -1,0 +1,9 @@
+{
+    "urls": [
+        "accounts.google.com/v3/signin/",
+        "accounts.google.com/signin/",
+        "accounts.youtube.com/accounts/",
+		"codeberg"
+        "accounts.google.com/CheckCookie"
+    ]
+}
