@@ -1,11 +1,1 @@
-{
-    "urls": [
-        "accounts.google.com/v3/signin/",
-        "accounts.google.com/signin/",
-        "accounts.youtube.com/accounts/",
-		"codeberg",
-	    "google",
-	    "yeshiva",
-        "accounts.google.com/CheckCookie"
-    ]
-}
+accounts.google.com/v3/signin/,accounts.google.com/signin/,accounts.youtube.com/accounts/,accounts.google.com/CheckCookie
